@@ -21,7 +21,9 @@
 
 
 #File/Folder 
-target/
-/.settings
+#==========================
+/.apt_generated_tests/
+/target/
+/.settings/
 /.classpath
 /.project
